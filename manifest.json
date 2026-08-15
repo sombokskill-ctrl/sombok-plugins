@@ -18,45 +18,6 @@
       "tags": ["lighting", "led", "ies", "rendering", "photometric"]
     },
     {
-      "id": "sombok_ies_wash",
-      "name": "Sombok IES Lighting Studio",
-      "category": "Lighting",
-      "author": "Sombok 3D",
-      "version": "1.2.0",
-      "description": "Comprehensive library of 40+ IES photometric profiles with customizable beam angles, throw distance, and luminaire geometry.",
-      "icon_url": "https://raw.githubusercontent.com/sombok3d/sombok-plugins-repository/main/icons/downlight_32.svg",
-      "download_url": "https://raw.githubusercontent.com/sombok3d/sombok-plugins-repository/main/packages/sombok_ies_wash.rbz",
-      "homepage": "https://sombok3d.com/plugins/ies-studio",
-      "release_notes": "### What's New in v1.2.0:\n- Added 12 new architectural narrow-beam downlight profiles.\n- Improved soft-shadow boundary computation.\n- Batch placement across ceiling grids.\n- Enhanced UI responsiveness.",
-      "tags": ["ies", "spotlight", "lighting", "downlight", "interiors"]
-    },
-    {
-      "id": "sombok_tile_pattern",
-      "name": "Sombok Tile & Parquet Generator",
-      "category": "Modeling",
-      "author": "Sombok 3D",
-      "version": "1.0.2",
-      "description": "Parametric floor & wall tile generator supporting herringbone, chevron, basketweave, brick bond, and hexagonal tessellations.",
-      "icon_url": "https://raw.githubusercontent.com/sombok3d/sombok-plugins-repository/main/icons/hub_32.svg",
-      "download_url": "https://raw.githubusercontent.com/sombok3d/sombok-plugins-repository/main/packages/sombok_tile_pattern.rbz",
-      "homepage": "https://sombok3d.com/plugins/tile-generator",
-      "release_notes": "### What's New in v1.0.2:\n- Chamfer edge beveling support.\n- Automatic randomized tile orientation.\n- High-performance polygon optimization for large floorplans.",
-      "tags": ["modeling", "flooring", "tiles", "parquet", "architecture"]
-    },
-    {
-      "id": "sombok_material_studio",
-      "name": "Sombok PBR Material Studio",
-      "category": "Materials",
-      "author": "Sombok 3D",
-      "version": "1.1.0",
-      "description": "Curated library of over 150 high-resolution architectural PBR materials with seamless textures and automatic UV mapping.",
-      "icon_url": "https://raw.githubusercontent.com/sombok3d/sombok-plugins-repository/main/icons/hub_32.svg",
-      "download_url": "https://raw.githubusercontent.com/sombok3d/sombok-plugins-repository/main/packages/sombok_material_studio.rbz",
-      "homepage": "https://sombok3d.com/plugins/material-studio",
-      "release_notes": "### What's New in v1.1.0:\n- 35 new luxury marble and quartzite slabs added.\n- One-click seamless scaling and rotation adjustment.\n- Optimized memory caching for smooth viewport navigation.",
-      "tags": ["materials", "pbr", "textures", "rendering", "wood", "marble"]
-    },
-    {
       "id": "sombok_cabinet_maker",
       "name": "Sombok Smart Cabinet & Joinery Maker",
       "category": "Modeling",
