@@ -1,0 +1,10 @@
+{
+  "name": "sombok_scene",
+  "version": "1.0.6",
+  "author": "SOMBOK AI",
+  "release_date": "2026-08-18",
+  "download_url": "https://github.com/sombok3d-developer/Sombok-Scene/releases/latest/download/sombok_scene.rbz",
+  "release_url": "https://github.com/sombok3d-developer/Sombok-Scene/releases/latest",
+  "changelog_en": "Added Info popup with SOMBOK AI credits, toolbar icon, and update check feature.",
+  "changelog_kh": "បានបន្ថែមផ្ទាំង Info បង្កើតឡើងដោយ SOMBOK AI រូបតំណាងលើ Toolbar និងមុខងារពិនិត្យមើលកំណែថ្មី។"
+}
